@@ -8,7 +8,7 @@ import Modelagem.Modelo;
 
 public class Principal {
 	
-	// atributos static s�o atributos de classe
+	// atributos static são atributos de classe
 	private static Carro[] vagas = new Carro[100]; // o estacionamento tem 100 vagas numeradas de 0..99
 	private static ArrayList<Marca> marcas = new ArrayList<Marca>();
 	private static ArrayList<Carro> historico = new ArrayList<Carro>();
